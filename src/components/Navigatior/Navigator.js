@@ -36,7 +36,7 @@ const Navigator = () => {
             </div>
             <div className="navigator-menu-container">
                 <ul className='ps-3 mt-5'>
-                    <li className='nav-list mb-3'>
+                    <li className='nav-list mb-3 home'>
                         <a href="#" className='d-flex align-items-end'>
                             <span className='nav-logo'><RiHome6Line/></span>
                             <span className='nav-name'>Home</span>

@@ -9,6 +9,12 @@
     list-style: none;
     transition: .4s;
 }
+.navigator-menu-container ul .home .nav-logo svg{
+    color: #E60000;
+}
+.navigator-menu-container ul .home .nav-name{
+    color: #000;
+}
 .navigator-menu-container ul li a{
     font-size: 18px;
     font-weight: 600;
