@@ -1,0 +1,27 @@
+.navigator-container a{
+    text-decoration: none;
+    color: #6c757d;
+}
+.navigator-icon .resize-icon svg{
+    font-size: 25px;
+}
+.navigator-menu-container ul li{
+    list-style: none;
+    transition: .4s;
+}
+.navigator-menu-container ul li a{
+    font-size: 18px;
+    font-weight: 600;
+}
+.navigator-menu-container ul li svg{
+    font-size: 24px;
+}
+.navigator-menu-container .nav-list:hover .nav-logo svg{
+    color: #E60000;
+}
+.navigator-menu-container .nav-list:hover .nav-name {
+    color: #000;
+}
+.navigator-menu-container .nav-name{
+    margin-left: 45px;
+}
